@@ -11,7 +11,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 * [Node.js](https://nodejs.org/)
 * [Express](https://expressjs.com/pt-br/)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Zeit](https://zeit.co/)
+* [Heroku](https://dashboard.heroku.com/)
 
 # 🎨 Layout
 Projetado em figma. [Entre aqui](https://www.figma.com/file/eG282pSn77oTkVQZ966uOt/ConvertMyMoney)
@@ -20,10 +20,10 @@ Projetado em figma. [Entre aqui](https://www.figma.com/file/eG282pSn77oTkVQZ966u
 ## Plataformas Utilizadas
 * Browsers (Google Chrome, Mozzila, Edge, Safari)
 * Visual Studio Code
-* [Zeit](https://zeit.co/)
+* [Heroku](https://dashboard.heroku.com/)
 
 ## Hospedagem
-* Para visualização, [entre aqui]()
+* Para visualização, [entre aqui](https://luanmedeirossilveira-convert.herokuapp.com)
 
 # 📜 Licensa
 Esse projeto está sob a licença ISC.
