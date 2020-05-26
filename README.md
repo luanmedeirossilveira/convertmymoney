@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="489" height="60" alt="Design by DevPleno" src="https://github.com/luanmedeirossilveira/convertmymoney/blob/master/public/logo.png">
-</p>
+# Sistema de Login com JAVAWEB
 
 # 🔭 Projeto 
 * Através de seu cadastro já registrado, o usuário consegue logar para acesso ao site.
