@@ -3,27 +3,25 @@
 </p>
 
 # 🔭 Projeto 
-* Aplicado em conjunto ao curso FullStack Master.
-* Através de dos valores passados, podemos converter de dólar para real.
+* Através de seu cadastro já registrado, o usuário consegue logar para acesso ao site.
 
 # 🛠 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias
-* [Node.js](https://nodejs.org/)
-* [Express](https://expressjs.com/pt-br/)
+* [JAVA EE]()
+* [Bootstrap]()
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Heroku](https://dashboard.heroku.com/)
 
 # 🎨 Layout
-Projetado em figma. [Entre aqui](https://www.figma.com/file/eG282pSn77oTkVQZ966uOt/ConvertMyMoney)
 
 # 🔩 Execução
 ## Plataformas Utilizadas
 * Browsers (Google Chrome, Mozzila, Edge, Safari)
-* Visual Studio Code
+* NetBeans 8.2
 * [Heroku](https://dashboard.heroku.com/)
 
 ## Hospedagem
-* Para visualização, [entre aqui](https://luanmedeirossilveira-convert.herokuapp.com)
+* Para visualização, [entre aqui]()
 
 # 📜 Licensa
 Esse projeto está sob a licença ISC.
