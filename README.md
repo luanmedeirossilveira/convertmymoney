@@ -1,25 +1,27 @@
-# Sistema de Login com JAVAWEB
+# ConvertMyMoney
 
 # 🔭 Projeto 
-* Através de seu cadastro já registrado, o usuário consegue logar para acesso ao site.
+* Aplicado em conjunto ao curso FullStack Master.
+* Através de dos valores passados, podemos converter de dólar para real.
 
 # 🛠 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias
-* [JAVA EE]()
-* [Bootstrap]()
+* [Node.js](https://nodejs.org/)
+* [Express](https://expressjs.com/pt-br/)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Heroku](https://dashboard.heroku.com/)
 
 # 🎨 Layout
+Projetado em figma. [Entre aqui](https://www.figma.com/file/eG282pSn77oTkVQZ966uOt/ConvertMyMoney)
 
 # 🔩 Execução
 ## Plataformas Utilizadas
 * Browsers (Google Chrome, Mozzila, Edge, Safari)
-* NetBeans 8.2
+* Visual Studio Code
 * [Heroku](https://dashboard.heroku.com/)
 
 ## Hospedagem
-* Para visualização, [entre aqui]()
+* Para visualização, [entre aqui](https://luanmedeirossilveira-convert.herokuapp.com)
 
 # 📜 Licensa
 Esse projeto está sob a licença ISC.
